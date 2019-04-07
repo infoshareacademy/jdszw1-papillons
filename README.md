@@ -6,9 +6,9 @@ Problem biznesowy:Do naszej firmy wpływa coraz więcej wniosków. Firma chce wy
 Definition of done:
 Ostateczna wersja jest dodana do Master branch wylacznie wtedy kiedy zostanie zaakceptowana przez wszystkich wersja z brancha Development.
 
-PYTANIA BADAWCZE:
 
-PYTANIA:
+
+PYTANIA BADAWCZE:
 
 1. Które wniosku są najszybsze? Najnmniejsza różnica data_zakończenia  i data_utworzenia 
 
