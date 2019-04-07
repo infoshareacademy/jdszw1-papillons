@@ -5,7 +5,3 @@ Problem biznesowy:Do naszej firmy wpływa coraz więcej wniosków. Firma chce wy
 
 Definition of done:
 Ostateczna wersja jest dodana do Master branch wylacznie wtedy kiedy zostanie zaakceptowana przez wszystkich wersja z brancha Development.
-
-
-
-slekfekjweorpitqe0tpiqeporyi  3pi
