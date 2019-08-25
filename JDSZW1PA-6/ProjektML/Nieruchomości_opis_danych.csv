@@ -1,0 +1,20 @@
+Suburb,Nazwa przedmieścia
+Address,Adres
+Rooms,Liczba pokoi
+Price,Cena w dolarach austr.
+Method," S - sprzedane; SP – sprzedane przed aukcją; PI – minimum aukcji nieosiągnięte (passed in) ; PN – sprzedane przed aukcją, cena nieznana; SN – sprzedane, cena nieznana; NB – brak ofert; VB – zakończone ofertą sprzedającego; W – wycofane przed aukcją; SA -sprzedane po aukcji; SS – sprzedane po aukcji, cena nieznana. N/A – cena lub najwyższa oferta nieznane. "
+Type," Typ oferty: br - apartament; h – dom, willa, bliżniak, z tarasem; u - szeregowiec; t - kamienica; dev site – działka budowlana; o res – inne mieszkalne."
+SellerG,Pośrednik nieruchomości
+Date,Data sprzedaży
+Distance,Odegłość od centralnego dystryktu biznesowego w kilometrach
+Regionname,"Region (West, North West, North, North east ...etc) "
+Propertycount,Liczba nieruchomości w sąsiedztwie
+Bedroom2 , Liczba sypialni (źródło alternatywne)
+Bathroom,Liczba sypialni
+Car,Liczba miejsc parkingowych
+Landsize,Powierzchnia działki
+BuildingArea,Powierzchnia budunku/mieszkania
+YearBuilt,Rok budowy nieruchomości
+CouncilArea,Obszar rady dzielnicy
+Lattitude,Szerokość geograficzna
+Longtitude,Długość geograficzna
